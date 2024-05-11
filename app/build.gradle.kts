@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.objectdetection"
+    namespace = "com.bishtMayank.objectdetection"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.objectdetection"
+        applicationId = "com.bishtMayank.objectdetection"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
